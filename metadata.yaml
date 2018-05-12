@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/3485
     wikipedia: http://en.wikipedia.org/wiki/James_Richardson_%28explorer_of_the_Sahara%29
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/22094#Travels-in-the-Great-Desert-of-Sahara-in-the-Years-of-1845-and-1846
 gutenberg_issued: '2007-07-17'
 gutenberg_type: Text
 identifiers:
